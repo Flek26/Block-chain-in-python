@@ -116,6 +116,9 @@ for n in range(5):
 #print blockchain
 print("\n\n===========Mining Complete===========\n")
 print ("Mining 5 blocks took:", datetime.datetime.now() - start_time, "to run" )
+
+# vvv Can be used to Print entire block chain after vvv
+
 #while blockchain.head != None:
 #   print(blockchain.head)
 #   blockchain.head = blockchain.head.nextBlock
