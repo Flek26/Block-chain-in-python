@@ -126,3 +126,6 @@ print ("Mining 5 blocks took:", datetime.datetime.now() - start_time, "to run" )
 
 
 #Start of the code for making it a network vvv
+#Going to be web based, people will be able to mine on a browser
+#When completed their block will get added to the network
+
