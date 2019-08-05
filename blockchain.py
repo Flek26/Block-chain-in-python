@@ -122,3 +122,7 @@ print ("Mining 5 blocks took:", datetime.datetime.now() - start_time, "to run" )
 #while blockchain.head != None:
 #   print(blockchain.head)
 #   blockchain.head = blockchain.head.nextBlock
+
+
+
+#Start of the code for making it a network vvv
